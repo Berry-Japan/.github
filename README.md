@@ -1,6 +1,6 @@
 # Berry Japan 🐾
 
-🐱 Development page of Berry Japan.
+🐱 Berry Japan development page.
 
 ![Logo](berry-japan.jpg)
 
@@ -19,23 +19,8 @@
     * [connman](https://github.com/Berry-Japan/connman)
     * [connman-ui](https://github.com/Berry-Japan/connman-ui)
 
-## 🖥 Whiz
-
-Japanese Input Method Engine
-
-### 📖 Repositories
-
-* https://github.com/yui0/whiz
-
-## 🖥 AI
-
-Artificial intelligence
-
-### 📖 Repositories
-
-* Inference of LLM model in pure C
-  * https://github.com/yui0/catseye/tree/master/llm
-
 ## 💎 Support
+
+<script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:oreel@oreel-yno.arg?fhowrpg=Nobhg Oreel Yvahk\" gnetrg=\"_oynax\">oreel@oreel-yno.arg</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">ten.bal-yrreb@yrreb</span></noscript></span>
 
 ![Logo](earth.jpg)
